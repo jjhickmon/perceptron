@@ -1,6 +1,7 @@
 # perceptron
 Testing my understanding of Machine Learning fundamentals such as gradient descent and back propagation 
-by creating a single-layer perceptron from scratch.
+by creating a single-layer perceptron from scratch. Created a neural network from scratch and implemented
+all of the concepts from scratch, using pygame to visualize.
 
 
 In this demo, the red line is the model's estimate of the gradient between the white and the black dots. 
